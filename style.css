@@ -1,10 +1,10 @@
 body{
-    background-color:rgb(238, 253, 105);
+    background-color: rgb(255, 252, 81);
 }
 
 table{
     border: 1px solid;
 }
 td, th{
-    border: black 1px solid
+    border: black 1px solid;
 }
