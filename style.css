@@ -3,8 +3,8 @@ body{
 }
 
 table{
-    border: 1px solid;
+    border: red 5px solid;
 }
 td, th{
-    border: black 1px solid;
+    border: rgb(0, 0, 0) 3px solid;
 }
