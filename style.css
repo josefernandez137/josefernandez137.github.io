@@ -2,10 +2,51 @@ body{
     background-color: rgb(255, 252, 81);
 }
 
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    font-size: large;
+}
+
+h5{
+    text-align: center;
+    font-size: large;
+}
+
+h6{
+    text-align: center;
+    font-size: large;
+}
+
+p.center{
+    text-align: center;
+}
+
 table{
     border: red 5px solid;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 td, th{
     border: rgb(0, 0, 0) 3px solid;
 }
+
+td{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+
+
 
